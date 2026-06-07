@@ -1,0 +1,29 @@
+<Kursi>
+    <Kurss>
+        <ID>1</ID>
+        <nosaukums>Programešana</nosaukums>
+        <apraksts>Šaja kursa cilvēki uzzīna vairāk par programešanu.</apraksts>
+        <pasniedzejs>Vadims Malickis</pasniedzejs>
+        <ilgums>120</ilgums>
+        <studSk>27</studSk>
+        <limenis>profesionāls</limenis>
+    </Kurss>
+    <Kurss>
+        <ID>2</ID>
+        <nosaukums>Matematika</nosaukums>
+        <apraksts>Šaja kursa cilvēki uzzīna vairāk par matematiku.</apraksts>
+        <pasniedzejs>Busiene Jurate</pasniedzejs>
+        <ilgums>100</ilgums>
+        <studSk>27</studSk>
+        <limenis>vidējs</limenis>
+    </Kurss>
+    <Kurss>
+        <ID>3</ID>
+        <nosaukums>Sports</nosaukums>
+        <apraksts>Šaja kursa cilvēki nodarbojas ar sportu.</apraksts>
+        <pasniedzejs>Ģirts Magone</pasniedzejs>
+        <ilgums>80</ilgums>
+        <studSk>27</studSk>
+        <limenis>vidējs</limenis>
+    </Kurss>
+</Kursi>
